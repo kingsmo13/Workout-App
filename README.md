@@ -1,7 +1,7 @@
 
 # Workout7
 
-  Workout7 is workout application which logs your workouts.It also has a BMI calculator to give you a basic idea about your current body fitness status by taking body weight and height as inputs.
+  Workout7 is a workout application which offers duration based exercises and also logs your workouts.It also has a BMI calculator to give you a basic idea about your current body fitness status by taking body weight and height as inputs.
 
 
 ## Demo
